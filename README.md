@@ -21,6 +21,7 @@ and Make a web service to get the following:
 
 
 ## Description of the  project files attached
-There are two fils >>  1- Web service     2- Tester client.
+There are two fils >>  1- Web service.     2- Tester client.
+
 To use this project you have to run the service fisrt and put the path of the project in the specific line of the tester client files.
 you ccan test the client by typing 
