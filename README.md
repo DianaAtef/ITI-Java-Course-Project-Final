@@ -17,3 +17,10 @@ and Make a web service to get the following:
 9. Show step 8 in bar chart
 10. Print skills one by one and how many each repeated and order the output to find out the most important skills required?
 11. Factorize the YearsExp feature and convert it to numbers in new col. (Bounce )
+
+
+
+## Description of the  project files attached
+There are two fils >>  1- Web service     2- Tester client.
+To use this project you have to run the service fisrt and put the path of the project in the specific line of the tester client files.
+you ccan test the client by typing 
