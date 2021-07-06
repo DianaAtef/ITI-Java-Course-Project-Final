@@ -16,11 +16,10 @@ and Make a web service to get the following:
 8. Find out the most popular areas?
 9. Show step 8 in bar chart
 10. Print skills one by one and how many each repeated and order the output to find out the most important skills required?
-11. Factorize the YearsExp feature and convert it to numbers in new col. (Bounce )
+11. Factorize the YearsExp feature and convert it to numbers in new col.
 
 
-
-## Description of the  project files attached
+## Description of the project files attached
 There are two fils ( Both were implemented on Intilij Ultimate Version: 2021.1.3)>>  1- Web service.     2- Tester client.
 Java version is 8
 The JDK version is 1.8
